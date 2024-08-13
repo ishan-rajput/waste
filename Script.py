@@ -223,9 +223,16 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """ 
+<b>• {file_name}
+╭──────────────────╮
+• <a href="https://t.me/+1MxLxqoanIFlYzM9">Cᴏᴘʏʀɪɢʜᴛ Mᴏᴠɪᴇs</a>
+• <a href="https://t.me/+yQXmFinDqDhiMTJl">Cᴏᴍʙɪɴᴇᴅ Sᴇʀɪᴇs</a>
+• <a href="https://t.me/ur_movie_group">Uʀ Mᴏᴠɪᴇs Gʀᴏᴜᴘ</a>
+╰──────────────────╯
 
-<b> Size ⚙️: {file_size}</b>""" 
+• ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/kissuXbots">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a></b>"""
+    
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -698,13 +705,9 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/KingVj01'>VJ</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/xaekks'>kissu</a>
 
--Dev 2 <a href='https://t.me/vjbots_bot'>VJ</a>
-
--Dev 3 <a href='https://t.me/vj_botz>VJ Botz</a>
-
-- Dev 4 <a href='https://t.me/vj_bots'>TEAM VJ</a>
+- Channel <a href='https://t.me/kissuXbots'>kissuXbots</a>
 """
 
     RENAME_TXT = """
